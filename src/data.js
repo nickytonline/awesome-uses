@@ -2064,6 +2064,27 @@ const pages = [
       'YouTuber',
     ],
   },
+
+
+  {
+    name: 'Nick Taylor',
+    description:
+      'Software develper from Montreal, Quebec, Canada',
+    url: 'https://www.iamdeveloper.com/uses/',
+    twitter: '@nickytonline',
+    emoji: '🔥',
+    country: '🇨🇦',
+    computer: 'apple',
+    phone: 'iphone',
+    tags: [
+      'JavaScript',
+      'Developer',
+      'React',
+      'Writer',
+      'TypeScript',
+      'Node',
+    ],
+  },
 ];
 
 export default pages;

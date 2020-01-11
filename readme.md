@@ -79,7 +79,7 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 * [Josh Manders](https://joshmanders.com/uses/) — Full Snack Developer and Indie Maker
 * [Daniel Wirtz](https://danielwirtz.com/uses/) — Designer who codes @Crisp Studio
 * [Sanket Gandhi](https://sanketgandhi.com/uses) — Software Engineer
-* [Harry Wolff](https://hswolff.com/uses/) — Front-end engineer and YouTuber 
+* [Harry Wolff](https://hswolff.com/uses/) — Front-end engineer and YouTuber
 * [James Mills](https://jamesmills.co.uk/uses) — Work with PHP & Laravel at @clicksco in Dubai. Pleased to be part of the Laravel community.
 * [Jeffrey Way](https://laracasts.com/blog/laracasts-uses) — Laracasts Author
 * [Terry Godier](https://terrygodier.com/uses) — A developer and marketer of fine internet products.
@@ -135,5 +135,6 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 * [John Garrett](https://johngarrett.dev/uses) — Arch Duke of Computering, Full Stack Instructor
 * [Dieter Stinglhamber](https://www.dieterstinglhamber.me/uses/) — Developer, human, nerd.
 * [Thomas Weibenfalk](https://www.weibenfalk.com/uses/) — Passionate developer, course creator, youtuber, designer and musician from Sweden
+* [Nick Taylor](https://www.iamdeveloper.com/uses) - Software develper from Montreal, Quebec, Canada
 
 [awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
