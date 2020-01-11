@@ -2064,12 +2064,10 @@ const pages = [
       'YouTuber',
     ],
   },
-
-
   {
     name: 'Nick Taylor',
     description:
-      'Software develper from Montreal, Quebec, Canada',
+      'Senior Software develper from Montreal, Quebec, Canada',
     url: 'https://www.iamdeveloper.com/uses/',
     twitter: '@nickytonline',
     emoji: '🔥',
